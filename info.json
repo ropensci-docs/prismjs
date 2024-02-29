@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6002e8fc66f89a9d96530dfb4cdf12b0dc897472",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2022-12-02 12:04:06",
+    "files": 1,
+    "merge": false,
+    "message": "bump version\n"
+  },
+  "repo": "https://github.com/ropensci/prismjs",
+  "pkg": "prismjs"
+}
